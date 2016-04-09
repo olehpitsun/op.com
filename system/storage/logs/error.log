@@ -1,0 +1,223 @@
+2016-03-27 7:50:06 - PHP Notice:  Undefined index: approval in /var/www/op.com/public_html/catalog/model/account/customer.php on line 16
+2016-03-27 7:50:06 - PHP Notice:  Undefined index: approval in /var/www/op.com/public_html/catalog/model/account/customer.php on line 32
+2016-03-31 15:58:09 - PHP Notice:  Undefined variable: action in /var/www/op.com/public_html/catalog/view/theme/default/template/product/category.tpl on line 158
+2016-03-31 15:58:09 - PHP Notice:  Undefined variable: entry_firstname in /var/www/op.com/public_html/catalog/view/theme/default/template/product/category.tpl on line 161
+2016-03-31 15:58:09 - PHP Notice:  Undefined variable: firstname in /var/www/op.com/public_html/catalog/view/theme/default/template/product/category.tpl on line 163
+2016-03-31 15:58:09 - PHP Notice:  Undefined variable: entry_firstname in /var/www/op.com/public_html/catalog/view/theme/default/template/product/category.tpl on line 163
+2016-03-31 15:58:09 - PHP Notice:  Undefined variable: error_firstname in /var/www/op.com/public_html/catalog/view/theme/default/template/product/category.tpl on line 164
+2016-03-31 15:58:09 - PHP Notice:  Undefined variable: entry_lastname in /var/www/op.com/public_html/catalog/view/theme/default/template/product/category.tpl on line 170
+2016-03-31 15:58:09 - PHP Notice:  Undefined variable: lastname in /var/www/op.com/public_html/catalog/view/theme/default/template/product/category.tpl on line 172
+2016-03-31 15:58:09 - PHP Notice:  Undefined variable: entry_lastname in /var/www/op.com/public_html/catalog/view/theme/default/template/product/category.tpl on line 172
+2016-03-31 15:58:09 - PHP Notice:  Undefined variable: error_lastname in /var/www/op.com/public_html/catalog/view/theme/default/template/product/category.tpl on line 173
+2016-03-31 15:58:09 - PHP Notice:  Undefined variable: entry_company in /var/www/op.com/public_html/catalog/view/theme/default/template/product/category.tpl on line 179
+2016-03-31 15:58:09 - PHP Notice:  Undefined variable: company in /var/www/op.com/public_html/catalog/view/theme/default/template/product/category.tpl on line 181
+2016-03-31 15:58:09 - PHP Notice:  Undefined variable: entry_company in /var/www/op.com/public_html/catalog/view/theme/default/template/product/category.tpl on line 181
+2016-03-31 15:58:09 - PHP Notice:  Undefined variable: entry_address_1 in /var/www/op.com/public_html/catalog/view/theme/default/template/product/category.tpl on line 185
+2016-03-31 15:58:09 - PHP Notice:  Undefined variable: address_1 in /var/www/op.com/public_html/catalog/view/theme/default/template/product/category.tpl on line 187
+2016-03-31 15:58:09 - PHP Notice:  Undefined variable: entry_address_1 in /var/www/op.com/public_html/catalog/view/theme/default/template/product/category.tpl on line 187
+2016-03-31 15:58:09 - PHP Notice:  Undefined variable: error_address_1 in /var/www/op.com/public_html/catalog/view/theme/default/template/product/category.tpl on line 188
+2016-03-31 15:58:09 - PHP Notice:  Undefined variable: entry_address_2 in /var/www/op.com/public_html/catalog/view/theme/default/template/product/category.tpl on line 194
+2016-03-31 15:58:09 - PHP Notice:  Undefined variable: address_2 in /var/www/op.com/public_html/catalog/view/theme/default/template/product/category.tpl on line 196
+2016-03-31 15:58:09 - PHP Notice:  Undefined variable: entry_address_2 in /var/www/op.com/public_html/catalog/view/theme/default/template/product/category.tpl on line 196
+2016-03-31 15:58:09 - PHP Notice:  Undefined variable: entry_city in /var/www/op.com/public_html/catalog/view/theme/default/template/product/category.tpl on line 200
+2016-03-31 15:58:09 - PHP Notice:  Undefined variable: city in /var/www/op.com/public_html/catalog/view/theme/default/template/product/category.tpl on line 202
+2016-03-31 15:58:09 - PHP Notice:  Undefined variable: entry_city in /var/www/op.com/public_html/catalog/view/theme/default/template/product/category.tpl on line 202
+2016-03-31 15:58:09 - PHP Notice:  Undefined variable: error_city in /var/www/op.com/public_html/catalog/view/theme/default/template/product/category.tpl on line 203
+2016-03-31 15:58:09 - PHP Notice:  Undefined variable: entry_postcode in /var/www/op.com/public_html/catalog/view/theme/default/template/product/category.tpl on line 209
+2016-03-31 15:58:09 - PHP Notice:  Undefined variable: postcode in /var/www/op.com/public_html/catalog/view/theme/default/template/product/category.tpl on line 211
+2016-03-31 15:58:09 - PHP Notice:  Undefined variable: entry_postcode in /var/www/op.com/public_html/catalog/view/theme/default/template/product/category.tpl on line 211
+2016-03-31 15:58:09 - PHP Notice:  Undefined variable: error_postcode in /var/www/op.com/public_html/catalog/view/theme/default/template/product/category.tpl on line 212
+2016-03-31 15:58:09 - PHP Notice:  Undefined variable: entry_country in /var/www/op.com/public_html/catalog/view/theme/default/template/product/category.tpl on line 218
+2016-03-31 15:58:09 - PHP Notice:  Undefined variable: text_select in /var/www/op.com/public_html/catalog/view/theme/default/template/product/category.tpl on line 221
+2016-03-31 15:58:09 - PHP Notice:  Undefined variable: countries in /var/www/op.com/public_html/catalog/view/theme/default/template/product/category.tpl on line 222
+2016-03-31 15:58:09 - PHP Warning:  Invalid argument supplied for foreach() in /var/www/op.com/public_html/catalog/view/theme/default/template/product/category.tpl on line 222
+2016-03-31 15:58:09 - PHP Notice:  Undefined variable: error_country in /var/www/op.com/public_html/catalog/view/theme/default/template/product/category.tpl on line 230
+2016-03-31 15:58:09 - PHP Notice:  Undefined variable: entry_zone in /var/www/op.com/public_html/catalog/view/theme/default/template/product/category.tpl on line 236
+2016-03-31 15:58:09 - PHP Notice:  Undefined variable: error_zone in /var/www/op.com/public_html/catalog/view/theme/default/template/product/category.tpl on line 240
+2016-03-31 15:58:09 - PHP Notice:  Undefined variable: custom_fields in /var/www/op.com/public_html/catalog/view/theme/default/template/product/category.tpl on line 245
+2016-03-31 15:58:09 - PHP Warning:  Invalid argument supplied for foreach() in /var/www/op.com/public_html/catalog/view/theme/default/template/product/category.tpl on line 245
+2016-03-31 15:58:09 - PHP Notice:  Undefined variable: entry_default in /var/www/op.com/public_html/catalog/view/theme/default/template/product/category.tpl on line 399
+2016-03-31 15:58:09 - PHP Notice:  Undefined variable: default in /var/www/op.com/public_html/catalog/view/theme/default/template/product/category.tpl on line 401
+2016-03-31 15:58:09 - PHP Notice:  Undefined variable: text_yes in /var/www/op.com/public_html/catalog/view/theme/default/template/product/category.tpl on line 411
+2016-03-31 15:58:09 - PHP Notice:  Undefined variable: text_no in /var/www/op.com/public_html/catalog/view/theme/default/template/product/category.tpl on line 414
+2016-03-31 15:58:09 - PHP Notice:  Undefined variable: back in /var/www/op.com/public_html/catalog/view/theme/default/template/product/category.tpl on line 420
+2016-03-31 15:58:09 - PHP Notice:  Undefined variable: button_back in /var/www/op.com/public_html/catalog/view/theme/default/template/product/category.tpl on line 420
+2016-03-31 15:58:56 - PHP Notice:  Undefined variable: action in /var/www/op.com/public_html/catalog/view/theme/default/template/product/category.tpl on line 158
+2016-03-31 15:58:56 - PHP Notice:  Undefined variable: entry_firstname in /var/www/op.com/public_html/catalog/view/theme/default/template/product/category.tpl on line 161
+2016-03-31 15:58:56 - PHP Notice:  Undefined variable: firstname in /var/www/op.com/public_html/catalog/view/theme/default/template/product/category.tpl on line 163
+2016-03-31 15:58:56 - PHP Notice:  Undefined variable: entry_firstname in /var/www/op.com/public_html/catalog/view/theme/default/template/product/category.tpl on line 163
+2016-03-31 15:58:56 - PHP Notice:  Undefined variable: error_firstname in /var/www/op.com/public_html/catalog/view/theme/default/template/product/category.tpl on line 164
+2016-03-31 15:58:56 - PHP Notice:  Undefined variable: back in /var/www/op.com/public_html/catalog/view/theme/default/template/product/category.tpl on line 171
+2016-03-31 15:58:56 - PHP Notice:  Undefined variable: button_back in /var/www/op.com/public_html/catalog/view/theme/default/template/product/category.tpl on line 171
+2016-03-31 16:00:08 - PHP Notice:  Undefined variable: action in /var/www/op.com/public_html/catalog/view/theme/default/template/product/category.tpl on line 158
+2016-03-31 16:00:08 - PHP Notice:  Undefined variable: entry_firstname in /var/www/op.com/public_html/catalog/view/theme/default/template/product/category.tpl on line 161
+2016-03-31 16:00:08 - PHP Notice:  Undefined variable: firstname in /var/www/op.com/public_html/catalog/view/theme/default/template/product/category.tpl on line 163
+2016-03-31 16:00:08 - PHP Notice:  Undefined variable: entry_firstname in /var/www/op.com/public_html/catalog/view/theme/default/template/product/category.tpl on line 163
+2016-03-31 16:00:08 - PHP Notice:  Undefined variable: back in /var/www/op.com/public_html/catalog/view/theme/default/template/product/category.tpl on line 169
+2016-03-31 16:00:38 - PHP Notice:  Undefined variable: action in /var/www/op.com/public_html/catalog/view/theme/default/template/product/category.tpl on line 158
+2016-03-31 16:00:38 - PHP Notice:  Undefined variable: entry_firstname in /var/www/op.com/public_html/catalog/view/theme/default/template/product/category.tpl on line 163
+2016-03-31 16:00:38 - PHP Notice:  Undefined variable: back in /var/www/op.com/public_html/catalog/view/theme/default/template/product/category.tpl on line 169
+2016-03-31 16:00:48 - PHP Notice:  Undefined variable: action in /var/www/op.com/public_html/catalog/view/theme/default/template/product/category.tpl on line 158
+2016-03-31 16:00:48 - PHP Notice:  Undefined variable: entry_firstname in /var/www/op.com/public_html/catalog/view/theme/default/template/product/category.tpl on line 163
+2016-03-31 16:00:48 - PHP Notice:  Undefined variable: back in /var/www/op.com/public_html/catalog/view/theme/default/template/product/category.tpl on line 169
+2016-03-31 16:01:05 - PHP Notice:  Undefined variable: action in /var/www/op.com/public_html/catalog/view/theme/default/template/product/category.tpl on line 158
+2016-03-31 16:01:05 - PHP Notice:  Undefined variable: back in /var/www/op.com/public_html/catalog/view/theme/default/template/product/category.tpl on line 169
+2016-03-31 16:01:31 - PHP Notice:  Undefined variable: action in /var/www/op.com/public_html/catalog/view/theme/default/template/product/category.tpl on line 158
+2016-03-31 16:01:31 - PHP Notice:  Undefined variable: back in /var/www/op.com/public_html/catalog/view/theme/default/template/product/category.tpl on line 169
+2016-03-31 16:01:58 - PHP Notice:  Undefined variable: action in /var/www/op.com/public_html/catalog/view/theme/default/template/product/category.tpl on line 158
+2016-03-31 16:01:58 - PHP Notice:  Undefined variable: back in /var/www/op.com/public_html/catalog/view/theme/default/template/product/category.tpl on line 170
+2016-03-31 16:02:15 - PHP Notice:  Undefined variable: action in /var/www/op.com/public_html/catalog/view/theme/default/template/product/category.tpl on line 158
+2016-03-31 16:02:27 - PHP Notice:  Undefined variable: action in /var/www/op.com/public_html/catalog/view/theme/default/template/product/category.tpl on line 158
+2016-03-31 16:25:38 - PHP Notice:  Undefined variable: middlename in /var/www/op.com/public_html/catalog/view/theme/default/template/account/address_form.tpl on line 30
+2016-03-31 16:25:38 - PHP Notice:  Undefined variable: entry_middlename in /var/www/op.com/public_html/catalog/view/theme/default/template/account/address_form.tpl on line 30
+2016-03-31 16:25:38 - PHP Notice:  Undefined variable: error_middlename in /var/www/op.com/public_html/catalog/view/theme/default/template/account/address_form.tpl on line 31
+2016-03-31 16:29:25 - PHP Notice:  Undefined variable: middlename in /var/www/op.com/public_html/catalog/view/theme/default/template/account/address_form.tpl on line 30
+2016-03-31 16:29:25 - PHP Notice:  Undefined variable: entry_middlename in /var/www/op.com/public_html/catalog/view/theme/default/template/account/address_form.tpl on line 30
+2016-03-31 16:29:25 - PHP Notice:  Undefined variable: error_middlename in /var/www/op.com/public_html/catalog/view/theme/default/template/account/address_form.tpl on line 31
+2016-03-31 16:30:20 - PHP Notice:  Undefined variable: middlename in /var/www/op.com/public_html/catalog/view/theme/default/template/account/address_form.tpl on line 30
+2016-03-31 16:30:20 - PHP Notice:  Undefined variable: entry_middlename in /var/www/op.com/public_html/catalog/view/theme/default/template/account/address_form.tpl on line 30
+2016-03-31 16:30:20 - PHP Notice:  Undefined variable: error_middlename in /var/www/op.com/public_html/catalog/view/theme/default/template/account/address_form.tpl on line 31
+2016-03-31 16:31:29 - PHP Notice:  Undefined variable: middlename in /var/www/op.com/public_html/catalog/view/theme/default/template/account/address_form.tpl on line 30
+2016-03-31 16:31:29 - PHP Notice:  Undefined variable: entry_middlename in /var/www/op.com/public_html/catalog/view/theme/default/template/account/address_form.tpl on line 30
+2016-03-31 16:31:29 - PHP Notice:  Undefined variable: error_middlename in /var/www/op.com/public_html/catalog/view/theme/default/template/account/address_form.tpl on line 31
+2016-03-31 16:32:13 - PHP Notice:  Undefined variable: middlename in /var/www/op.com/public_html/catalog/view/theme/default/template/account/address_form.tpl on line 30
+2016-03-31 16:32:13 - PHP Notice:  Undefined variable: entry_middlename in /var/www/op.com/public_html/catalog/view/theme/default/template/account/address_form.tpl on line 30
+2016-03-31 16:33:02 - PHP Notice:  Undefined variable: middlename in /var/www/op.com/public_html/catalog/view/theme/default/template/account/address_form.tpl on line 30
+2016-03-31 16:33:02 - PHP Notice:  Undefined variable: entry_middlename in /var/www/op.com/public_html/catalog/view/theme/default/template/account/address_form.tpl on line 30
+2016-03-31 16:33:02 - PHP Notice:  Undefined variable: error_middlename in /var/www/op.com/public_html/catalog/view/theme/default/template/account/address_form.tpl on line 31
+2016-03-31 16:33:34 - PHP Notice:  Undefined variable: middlename in /var/www/op.com/public_html/catalog/view/theme/default/template/account/address_form.tpl on line 30
+2016-03-31 16:33:34 - PHP Notice:  Undefined variable: entry_middlename in /var/www/op.com/public_html/catalog/view/theme/default/template/account/address_form.tpl on line 30
+2016-03-31 16:33:34 - PHP Notice:  Undefined variable: error_middlename in /var/www/op.com/public_html/catalog/view/theme/default/template/account/address_form.tpl on line 31
+2016-03-31 16:35:41 - PHP Notice:  Undefined variable: middlename in /var/www/op.com/public_html/catalog/view/theme/default/template/account/address_form.tpl on line 30
+2016-03-31 16:35:41 - PHP Notice:  Undefined variable: entry_middlename in /var/www/op.com/public_html/catalog/view/theme/default/template/account/address_form.tpl on line 30
+2016-03-31 16:35:41 - PHP Notice:  Undefined variable: error_middlename in /var/www/op.com/public_html/catalog/view/theme/default/template/account/address_form.tpl on line 31
+2016-03-31 16:37:49 - PHP Notice:  Undefined variable: middlename in /var/www/op.com/public_html/catalog/view/theme/default/template/account/address_form.tpl on line 30
+2016-03-31 16:37:49 - PHP Notice:  Undefined variable: entry_middlename in /var/www/op.com/public_html/catalog/view/theme/default/template/account/address_form.tpl on line 30
+2016-03-31 16:37:49 - PHP Notice:  Undefined variable: error_middlename in /var/www/op.com/public_html/catalog/view/theme/default/template/account/address_form.tpl on line 31
+2016-03-31 16:40:44 - PHP Notice:  Undefined variable: middlename in /var/www/op.com/public_html/catalog/view/theme/default/template/account/address_form.tpl on line 30
+2016-03-31 16:40:44 - PHP Notice:  Undefined variable: entry_middlename in /var/www/op.com/public_html/catalog/view/theme/default/template/account/address_form.tpl on line 30
+2016-03-31 16:40:44 - PHP Notice:  Undefined variable: error_middlename in /var/www/op.com/public_html/catalog/view/theme/default/template/account/address_form.tpl on line 31
+2016-03-31 16:41:59 - PHP Notice:  Undefined variable: entry_middlename in /var/www/op.com/public_html/catalog/view/theme/default/template/account/address_form.tpl on line 30
+2016-03-31 16:41:59 - PHP Notice:  Undefined variable: error_middlename in /var/www/op.com/public_html/catalog/view/theme/default/template/account/address_form.tpl on line 31
+2016-03-31 16:42:47 - PHP Notice:  Undefined variable: error_middlename in /var/www/op.com/public_html/catalog/view/theme/default/template/account/address_form.tpl on line 31
+2016-04-07 18:48:25 - PHP Notice:  Undefined variable: activity_data in /var/www/op.com/public_html/catalog/controller/account/address.php on line 94
+2016-04-07 18:48:25 - PHP Notice:  Undefined variable: activity_data in /var/www/op.com/public_html/catalog/controller/account/address.php on line 95
+2016-04-07 18:54:50 - PHP Notice:  Use of undefined constant ajaxRequest - assumed 'ajaxRequest' in /var/www/op.com/public_html/catalog/view/theme/default/template/account/address_form.tpl on line 14
+2016-04-07 18:55:36 - PHP Notice:  Use of undefined constant ajaxRequest - assumed 'ajaxRequest' in /var/www/op.com/public_html/catalog/view/theme/default/template/account/address_form.tpl on line 16
+2016-04-08 19:46:45 - PHP Notice:  Undefined variable: action in /var/www/op.com/public_html/catalog/view/theme/default/template/product/category.tpl on line 158
+2016-04-09 16:05:57 - PHP Notice:  Undefined variable: action in /var/www/op.com/public_html/catalog/view/theme/default/template/account/address_list.tpl on line 55
+2016-04-09 16:06:36 - PHP Notice:  Undefined variable: action in /var/www/op.com/public_html/catalog/view/theme/default/template/account/address_list.tpl on line 2
+2016-04-09 16:07:13 - PHP Notice:  Undefined variable: action in /var/www/op.com/public_html/catalog/view/theme/default/template/account/address_list.tpl on line 2
+2016-04-09 16:08:24 - PHP Notice:  Undefined variable: action in /var/www/op.com/public_html/catalog/view/theme/default/template/account/address_list.tpl on line 2
+2016-04-09 16:11:01 - PHP Notice:  Undefined variable: action in /var/www/op.com/public_html/catalog/view/theme/default/template/account/address_list.tpl on line 2
+2016-04-09 16:13:54 - PHP Notice:  Undefined variable: action in /var/www/op.com/public_html/catalog/view/theme/default/template/account/address_list.tpl on line 2
+2016-04-09 16:13:54 - PHP Notice:  Undefined variable: action in /var/www/op.com/public_html/catalog/view/theme/default/template/account/address_list.tpl on line 25
+2016-04-09 16:15:05 - PHP Notice:  Undefined variable: action in /var/www/op.com/public_html/catalog/view/theme/default/template/account/address_list.tpl on line 2
+2016-04-09 16:15:05 - PHP Notice:  Undefined variable: action in /var/www/op.com/public_html/catalog/view/theme/default/template/account/address_list.tpl on line 23
+2016-04-09 16:17:41 - PHP Notice:  Undefined variable: action in /var/www/op.com/public_html/catalog/view/theme/default/template/account/address_list.tpl on line 2
+2016-04-09 16:17:41 - PHP Notice:  Undefined variable: action in /var/www/op.com/public_html/catalog/view/theme/default/template/account/address_list.tpl on line 23
+2016-04-09 16:18:20 - PHP Notice:  Undefined variable: action in /var/www/op.com/public_html/catalog/view/theme/default/template/account/address_list.tpl on line 2
+2016-04-09 16:18:20 - PHP Notice:  Undefined variable: action in /var/www/op.com/public_html/catalog/view/theme/default/template/account/address_list.tpl on line 22
+2016-04-09 16:20:42 - PHP Notice:  Undefined variable: action in /var/www/op.com/public_html/catalog/view/theme/default/template/account/address_list.tpl on line 2
+2016-04-09 16:20:49 - PHP Notice:  Undefined variable: action in /var/www/op.com/public_html/catalog/view/theme/default/template/account/address_list.tpl on line 2
+2016-04-09 16:21:06 - PHP Notice:  Undefined index: firstname in /var/www/op.com/public_html/catalog/controller/account/address.php on line 571
+2016-04-09 16:21:06 - PHP Notice:  Undefined index: middlename in /var/www/op.com/public_html/catalog/controller/account/address.php on line 575
+2016-04-09 16:21:06 - PHP Notice:  Undefined index: lastname in /var/www/op.com/public_html/catalog/controller/account/address.php on line 579
+2016-04-09 16:21:06 - PHP Notice:  Undefined index: address_1 in /var/www/op.com/public_html/catalog/controller/account/address.php on line 583
+2016-04-09 16:21:06 - PHP Notice:  Undefined index: city in /var/www/op.com/public_html/catalog/controller/account/address.php on line 587
+2016-04-09 16:21:06 - PHP Notice:  Undefined index: country_id in /var/www/op.com/public_html/catalog/controller/account/address.php on line 593
+2016-04-09 16:21:06 - PHP Notice:  Undefined index: country_id in /var/www/op.com/public_html/catalog/controller/account/address.php on line 599
+2016-04-09 16:21:10 - PHP Notice:  Undefined variable: action in /var/www/op.com/public_html/catalog/view/theme/default/template/account/address_list.tpl on line 2
+2016-04-09 16:21:14 - PHP Notice:  Undefined index: firstname in /var/www/op.com/public_html/catalog/controller/account/address.php on line 571
+2016-04-09 16:21:14 - PHP Notice:  Undefined index: middlename in /var/www/op.com/public_html/catalog/controller/account/address.php on line 575
+2016-04-09 16:21:14 - PHP Notice:  Undefined index: lastname in /var/www/op.com/public_html/catalog/controller/account/address.php on line 579
+2016-04-09 16:21:14 - PHP Notice:  Undefined index: address_1 in /var/www/op.com/public_html/catalog/controller/account/address.php on line 583
+2016-04-09 16:21:14 - PHP Notice:  Undefined index: city in /var/www/op.com/public_html/catalog/controller/account/address.php on line 587
+2016-04-09 16:21:14 - PHP Notice:  Undefined index: country_id in /var/www/op.com/public_html/catalog/controller/account/address.php on line 593
+2016-04-09 16:21:14 - PHP Notice:  Undefined index: country_id in /var/www/op.com/public_html/catalog/controller/account/address.php on line 599
+2016-04-09 16:22:15 - PHP Notice:  Undefined variable: action in /var/www/op.com/public_html/catalog/view/theme/default/template/account/address_list.tpl on line 2
+2016-04-09 16:22:19 - PHP Notice:  Undefined index: firstname in /var/www/op.com/public_html/catalog/controller/account/address.php on line 571
+2016-04-09 16:22:19 - PHP Notice:  Undefined index: middlename in /var/www/op.com/public_html/catalog/controller/account/address.php on line 575
+2016-04-09 16:22:19 - PHP Notice:  Undefined index: lastname in /var/www/op.com/public_html/catalog/controller/account/address.php on line 579
+2016-04-09 16:22:19 - PHP Notice:  Undefined index: address_1 in /var/www/op.com/public_html/catalog/controller/account/address.php on line 583
+2016-04-09 16:22:19 - PHP Notice:  Undefined index: city in /var/www/op.com/public_html/catalog/controller/account/address.php on line 587
+2016-04-09 16:22:19 - PHP Notice:  Undefined index: country_id in /var/www/op.com/public_html/catalog/controller/account/address.php on line 593
+2016-04-09 16:22:19 - PHP Notice:  Undefined index: country_id in /var/www/op.com/public_html/catalog/controller/account/address.php on line 599
+2016-04-09 16:23:09 - PHP Notice:  Undefined variable: action in /var/www/op.com/public_html/catalog/view/theme/default/template/account/address_list.tpl on line 2
+2016-04-09 16:23:15 - PHP Notice:  Undefined index: firstname in /var/www/op.com/public_html/catalog/controller/account/address.php on line 571
+2016-04-09 16:23:15 - PHP Notice:  Undefined index: middlename in /var/www/op.com/public_html/catalog/controller/account/address.php on line 575
+2016-04-09 16:23:15 - PHP Notice:  Undefined index: lastname in /var/www/op.com/public_html/catalog/controller/account/address.php on line 579
+2016-04-09 16:23:15 - PHP Notice:  Undefined index: address_1 in /var/www/op.com/public_html/catalog/controller/account/address.php on line 583
+2016-04-09 16:23:15 - PHP Notice:  Undefined index: city in /var/www/op.com/public_html/catalog/controller/account/address.php on line 587
+2016-04-09 16:23:15 - PHP Notice:  Undefined index: country_id in /var/www/op.com/public_html/catalog/controller/account/address.php on line 593
+2016-04-09 16:23:15 - PHP Notice:  Undefined index: country_id in /var/www/op.com/public_html/catalog/controller/account/address.php on line 599
+2016-04-09 16:23:58 - PHP Notice:  Undefined index: firstname in /var/www/op.com/public_html/catalog/controller/account/address.php on line 571
+2016-04-09 16:23:58 - PHP Notice:  Undefined index: middlename in /var/www/op.com/public_html/catalog/controller/account/address.php on line 575
+2016-04-09 16:23:58 - PHP Notice:  Undefined index: lastname in /var/www/op.com/public_html/catalog/controller/account/address.php on line 579
+2016-04-09 16:23:58 - PHP Notice:  Undefined index: address_1 in /var/www/op.com/public_html/catalog/controller/account/address.php on line 583
+2016-04-09 16:23:58 - PHP Notice:  Undefined index: city in /var/www/op.com/public_html/catalog/controller/account/address.php on line 587
+2016-04-09 16:23:58 - PHP Notice:  Undefined index: country_id in /var/www/op.com/public_html/catalog/controller/account/address.php on line 593
+2016-04-09 16:23:58 - PHP Notice:  Undefined index: country_id in /var/www/op.com/public_html/catalog/controller/account/address.php on line 599
+2016-04-09 16:25:46 - PHP Notice:  Undefined index: firstname in /var/www/op.com/public_html/catalog/controller/account/address.php on line 572
+2016-04-09 16:25:46 - PHP Notice:  Undefined index: middlename in /var/www/op.com/public_html/catalog/controller/account/address.php on line 576
+2016-04-09 16:25:46 - PHP Notice:  Undefined index: lastname in /var/www/op.com/public_html/catalog/controller/account/address.php on line 580
+2016-04-09 16:25:46 - PHP Notice:  Undefined index: address_1 in /var/www/op.com/public_html/catalog/controller/account/address.php on line 584
+2016-04-09 16:25:46 - PHP Notice:  Undefined index: city in /var/www/op.com/public_html/catalog/controller/account/address.php on line 588
+2016-04-09 16:25:46 - PHP Notice:  Undefined index: country_id in /var/www/op.com/public_html/catalog/controller/account/address.php on line 594
+2016-04-09 16:25:46 - PHP Notice:  Undefined index: country_id in /var/www/op.com/public_html/catalog/controller/account/address.php on line 600
+2016-04-09 16:26:36 - PHP Notice:  Undefined index: firstname in /var/www/op.com/public_html/catalog/controller/account/address.php on line 572
+2016-04-09 16:26:36 - PHP Notice:  Undefined index: middlename in /var/www/op.com/public_html/catalog/controller/account/address.php on line 576
+2016-04-09 16:26:36 - PHP Notice:  Undefined index: lastname in /var/www/op.com/public_html/catalog/controller/account/address.php on line 580
+2016-04-09 16:26:36 - PHP Notice:  Undefined index: address_1 in /var/www/op.com/public_html/catalog/controller/account/address.php on line 584
+2016-04-09 16:26:36 - PHP Notice:  Undefined index: city in /var/www/op.com/public_html/catalog/controller/account/address.php on line 588
+2016-04-09 16:26:36 - PHP Notice:  Undefined index: country_id in /var/www/op.com/public_html/catalog/controller/account/address.php on line 594
+2016-04-09 16:26:36 - PHP Notice:  Undefined index: country_id in /var/www/op.com/public_html/catalog/controller/account/address.php on line 600
+2016-04-09 16:26:57 - PHP Notice:  Undefined index: firstname in /var/www/op.com/public_html/catalog/controller/account/address.php on line 572
+2016-04-09 16:26:57 - PHP Notice:  Undefined index: middlename in /var/www/op.com/public_html/catalog/controller/account/address.php on line 576
+2016-04-09 16:26:57 - PHP Notice:  Undefined index: lastname in /var/www/op.com/public_html/catalog/controller/account/address.php on line 580
+2016-04-09 16:26:57 - PHP Notice:  Undefined index: address_1 in /var/www/op.com/public_html/catalog/controller/account/address.php on line 584
+2016-04-09 16:26:57 - PHP Notice:  Undefined index: city in /var/www/op.com/public_html/catalog/controller/account/address.php on line 588
+2016-04-09 16:26:57 - PHP Notice:  Undefined index: country_id in /var/www/op.com/public_html/catalog/controller/account/address.php on line 594
+2016-04-09 16:26:57 - PHP Notice:  Undefined index: country_id in /var/www/op.com/public_html/catalog/controller/account/address.php on line 600
+2016-04-09 16:29:04 - PHP Notice:  Undefined index: firstname in /var/www/op.com/public_html/catalog/controller/account/address.php on line 572
+2016-04-09 16:29:04 - PHP Notice:  Undefined index: middlename in /var/www/op.com/public_html/catalog/controller/account/address.php on line 576
+2016-04-09 16:29:04 - PHP Notice:  Undefined index: lastname in /var/www/op.com/public_html/catalog/controller/account/address.php on line 580
+2016-04-09 16:29:04 - PHP Notice:  Undefined index: address_1 in /var/www/op.com/public_html/catalog/controller/account/address.php on line 584
+2016-04-09 16:29:04 - PHP Notice:  Undefined index: city in /var/www/op.com/public_html/catalog/controller/account/address.php on line 588
+2016-04-09 16:29:04 - PHP Notice:  Undefined index: country_id in /var/www/op.com/public_html/catalog/controller/account/address.php on line 594
+2016-04-09 16:29:04 - PHP Notice:  Undefined index: country_id in /var/www/op.com/public_html/catalog/controller/account/address.php on line 600
+2016-04-09 16:32:30 - PHP Notice:  Undefined index: firstname in /var/www/op.com/public_html/catalog/controller/account/address.php on line 572
+2016-04-09 16:32:30 - PHP Notice:  Undefined index: middlename in /var/www/op.com/public_html/catalog/controller/account/address.php on line 576
+2016-04-09 16:32:30 - PHP Notice:  Undefined index: lastname in /var/www/op.com/public_html/catalog/controller/account/address.php on line 580
+2016-04-09 16:32:30 - PHP Notice:  Undefined index: address_1 in /var/www/op.com/public_html/catalog/controller/account/address.php on line 584
+2016-04-09 16:32:30 - PHP Notice:  Undefined index: city in /var/www/op.com/public_html/catalog/controller/account/address.php on line 588
+2016-04-09 16:32:30 - PHP Notice:  Undefined index: country_id in /var/www/op.com/public_html/catalog/controller/account/address.php on line 594
+2016-04-09 16:32:30 - PHP Notice:  Undefined index: country_id in /var/www/op.com/public_html/catalog/controller/account/address.php on line 600
+2016-04-09 16:39:36 - PHP Notice:  Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '5' at line 1<br />Error No: 1064<br />SELECT * FROM oc_address WHERE customer_id = '1' LIMIT 5 5 in /var/www/op.com/public_html/system/library/db/mysqli.php on line 41
+2016-04-09 16:39:36 - PHP Notice:  Trying to get property of non-object in /var/www/op.com/public_html/catalog/model/account/address.php on line 99
+2016-04-09 16:39:36 - PHP Warning:  Invalid argument supplied for foreach() in /var/www/op.com/public_html/catalog/model/account/address.php on line 99
+2016-04-09 16:40:33 - PHP Notice:  Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '5' at line 1<br />Error No: 1064<br />SELECT * FROM oc_address WHERE customer_id = '1' LIMIT 5 5 in /var/www/op.com/public_html/system/library/db/mysqli.php on line 41
+2016-04-09 16:40:33 - PHP Notice:  Trying to get property of non-object in /var/www/op.com/public_html/catalog/model/account/address.php on line 99
+2016-04-09 16:40:33 - PHP Warning:  Invalid argument supplied for foreach() in /var/www/op.com/public_html/catalog/model/account/address.php on line 99
+2016-04-09 16:41:09 - PHP Notice:  Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '5' at line 1<br />Error No: 1064<br />SELECT * FROM oc_address WHERE customer_id = '1' LIMIT 5 5 in /var/www/op.com/public_html/system/library/db/mysqli.php on line 41
+2016-04-09 16:41:09 - PHP Notice:  Trying to get property of non-object in /var/www/op.com/public_html/catalog/model/account/address.php on line 99
+2016-04-09 16:41:09 - PHP Warning:  Invalid argument supplied for foreach() in /var/www/op.com/public_html/catalog/model/account/address.php on line 99
+2016-04-09 16:42:37 - PHP Notice:  Undefined index: startFrom in /var/www/op.com/public_html/catalog/controller/account/address.php on line 19
+2016-04-09 16:42:37 - PHP Notice:  Undefined index: startFrom in /var/www/op.com/public_html/catalog/controller/account/address.php on line 20
+2016-04-09 16:44:06 - PHP Notice:  Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '5' at line 1<br />Error No: 1064<br />SELECT * FROM oc_address WHERE customer_id = '1' LIMIT 5 5 in /var/www/op.com/public_html/system/library/db/mysqli.php on line 41
+2016-04-09 16:44:06 - PHP Notice:  Trying to get property of non-object in /var/www/op.com/public_html/catalog/model/account/address.php on line 99
+2016-04-09 16:44:06 - PHP Warning:  Invalid argument supplied for foreach() in /var/www/op.com/public_html/catalog/model/account/address.php on line 99
+2016-04-09 16:44:40 - PHP Notice:  Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '5' at line 1<br />Error No: 1064<br />SELECT * FROM oc_address WHERE customer_id = '1' LIMIT 5 5 in /var/www/op.com/public_html/system/library/db/mysqli.php on line 41
+2016-04-09 16:44:40 - PHP Notice:  Trying to get property of non-object in /var/www/op.com/public_html/catalog/model/account/address.php on line 99
+2016-04-09 16:44:40 - PHP Warning:  Invalid argument supplied for foreach() in /var/www/op.com/public_html/catalog/model/account/address.php on line 99
+2016-04-09 16:44:57 - PHP Notice:  Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '5' at line 1<br />Error No: 1064<br />SELECT * FROM oc_address WHERE customer_id = '1' LIMIT 5 5 in /var/www/op.com/public_html/system/library/db/mysqli.php on line 41
+2016-04-09 16:44:57 - PHP Notice:  Trying to get property of non-object in /var/www/op.com/public_html/catalog/model/account/address.php on line 99
+2016-04-09 16:44:57 - PHP Warning:  Invalid argument supplied for foreach() in /var/www/op.com/public_html/catalog/model/account/address.php on line 99
+2016-04-09 16:45:15 - PHP Notice:  Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '5' at line 1<br />Error No: 1064<br />SELECT * FROM oc_address WHERE customer_id = '1' LIMIT 5 5 in /var/www/op.com/public_html/system/library/db/mysqli.php on line 41
+2016-04-09 16:45:15 - PHP Notice:  Trying to get property of non-object in /var/www/op.com/public_html/catalog/model/account/address.php on line 99
+2016-04-09 16:45:15 - PHP Warning:  Invalid argument supplied for foreach() in /var/www/op.com/public_html/catalog/model/account/address.php on line 99
+2016-04-09 16:47:35 - PHP Notice:  Undefined index: startFrom in /var/www/op.com/public_html/catalog/controller/account/address.php on line 19
+2016-04-09 16:47:35 - PHP Notice:  Undefined index: startFrom in /var/www/op.com/public_html/catalog/controller/account/address.php on line 20
+2016-04-09 16:49:15 - PHP Notice:  Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '5' at line 1<br />Error No: 1064<br />SELECT * FROM oc_address WHERE customer_id = '1' LIMIT 5 5 in /var/www/op.com/public_html/system/library/db/mysqli.php on line 41
+2016-04-09 16:49:15 - PHP Notice:  Trying to get property of non-object in /var/www/op.com/public_html/catalog/model/account/address.php on line 99
+2016-04-09 16:49:15 - PHP Warning:  Invalid argument supplied for foreach() in /var/www/op.com/public_html/catalog/model/account/address.php on line 99
